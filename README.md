@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student speciali
 
 ## 📂 Featured Project
 
-### [DungeonDashboard](https://github.com/januszek2137/DungeonDashboard)
+### [DungeonDashboard](https://github.com/januszek2137/Dungeon_Dashboard)
 
 <img src="https://img.shields.io/github/last-commit/januszek2137/Dungeon_Dashboard" />
 
