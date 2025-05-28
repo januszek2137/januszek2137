@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0078D4&height=200&section=header&text=✋Hi%20there!%20I'm%20Janek2137&fontSize=40&fontColor=FFFFFF"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0078D4&height=200&section=header&text=✋Hi%20there!%20I'm%20Janek&fontSize=40&fontColor=FFFFFF"
     alt="Banner"
     style="display:block; width:100%; max-width:900px; height:auto;"
   />
