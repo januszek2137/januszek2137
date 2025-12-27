@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student speciali
 
 ---
 
-## 📂 Featured Project
+## 📂 Featured Projects
 
 ### [DungeonDashboard](https://github.com/januszek2137/Dungeon_Dashboard)
 
@@ -55,6 +55,16 @@ A powerful application designed to help manage and enhance tabletop role-playing
 - 📄 Export character sheets as PDF files  
 - ⏳ TurnKeeper mechanism to assist Dungeon Masters in managing turns  
 
+ ### [AI Magic Cards Generator](https://github.com/januszek2137/MtgCardsGenerator)
+
+  <img src="https://img.shields.io/github/last-commit/januszek2137/MtgCardsGenerator" /> <img src="https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet" /> <img src="https://img.shields.io/badge/AI-Groq%20LLM-orange" />
+
+  An AI-powered web application that generates custom Magic: The Gathering cards using advanced language models. Built with ASP.NET Core 10.0 and featuring:
+  - 🤖 Generate unique MTG cards using Groq's Llama 3.3 70B model
+  - 📥 Import card data from Scryfall's comprehensive database
+  - 🖼️ Render professional card images with authentic MTG styling
+  - 🎯 CMC-based generation for balanced, playable card designs
+  - 🔍 Browse and search through thousands of imported cards
 ---
 
 Thanks for stopping by! Feel free to explore my repos or drop me a line. 😎
