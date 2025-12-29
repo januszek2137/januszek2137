@@ -36,13 +36,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student speciali
 
 ---
 
-## 🏆 Pinned Projects
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=januszek2137&repo=Dungeon_Dashboard&theme=dark" alt="DungeonDashboard" />
-</p>
-
----
-
 ## 📂 Featured Projects
 
 ### [DungeonDashboard](https://github.com/januszek2137/Dungeon_Dashboard)
